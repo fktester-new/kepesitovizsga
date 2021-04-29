@@ -13,7 +13,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 class JurassicParkTest {
 
 
-    /*private JurassicPark jurassicPark;
+    private JurassicPark jurassicPark;
 
     @BeforeEach
     void init() throws SQLException {
@@ -36,7 +36,7 @@ class JurassicParkTest {
     @Test
     void test_check() {
         assertEquals(List.of("Hypsilophodontida", "Maiasaurus", "Velociraptor"), jurassicPark.checkOverpopulation());
-    }*/
+    }
 
 
 }
