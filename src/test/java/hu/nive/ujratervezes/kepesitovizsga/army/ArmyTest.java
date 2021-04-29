@@ -7,7 +7,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class ArmyTest {
 
-    /*Army army;
+    Army army;
 
     @BeforeEach
     void init() {
